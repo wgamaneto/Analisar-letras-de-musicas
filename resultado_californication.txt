@@ -1,0 +1,4 @@
+Musica: Californicatio, by: Red hot chilli peapers
+Todas as palavras que aparecem:  285
+Palavras unicas que mais aparecem 160
+Top 10 de palavras que mais aparecem [('of', 19), ('Californication', 17), ('Dream', 12), ('the', 11), ('And', 7), ('a', 6), ('to', 6), ("it's", 5), ('is', 4), ('your', 4)]

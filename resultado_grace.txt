@@ -1,0 +1,4 @@
+Musica: Grace, by: Jeff Bucley
+Todas as palavras que aparecem:  198
+Palavras unicas que mais aparecem 97
+Top 10 de palavras que mais aparecem [('the', 20), ('in', 14), ('fire,', 8), ('wait', 8), ('to', 7), ('oh', 6), ('Wait', 6), ('of', 5), ('my', 5), ('fire', 5)]
